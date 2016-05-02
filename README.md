@@ -102,7 +102,7 @@ As for me, the first thing I need to do is learning JavaScript (including D3.js)
  * Extract data for area charts by using python script (~0.5 hrs)
 - [x] Implement index.html with Boostrap (~2 hrs)
  * Implement page layout with HTML and Boostrap framework
-- [x] Implement style sheet for index.html (~6 hrs)
+- [x] Implement Style Sheet for index.html (~6 hrs)
  * Tuning parameters in CSS for a long long time (most of the color encoding jobs were done by Ryan)
 - [x] Implement the Area Charts (~4 hrs)
  * Implement the area chart about the global SARS outbreak (~2.5 hrs)
